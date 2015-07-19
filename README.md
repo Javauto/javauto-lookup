@@ -2,7 +2,7 @@
 
 **Javauto Lookup** helps a user find relevant documentation for a specific function.
 
- Get the latest version of [Javauto Lookup]() and run  **'$ javauto-lookup --doc sleep'** would provide documentation information for the sleep function.
+ Get the latest version of [Javauto Lookup]() and run  **'$ javauto-lookup --doc exit'** would provide documentation information for the **exit** function.
  
  [![Build Status](https://travis-ci.org/Javauto/javauto-lookup.svg)](https://travis-ci.org/Javauto/javauto-lookup)
  
